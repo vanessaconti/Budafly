@@ -1,6 +1,6 @@
 //import "./App.css";
 import { useState, useEffect } from "react";
-import { Routes, Route, createPath } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import About from "./Components/About";
 import Home from "./Components/Home";
 import NavBar from "./Components/NavBar";
